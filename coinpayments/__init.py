@@ -1,0 +1,1 @@
+from .coinpayments import CoinPayments
